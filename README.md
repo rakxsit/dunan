@@ -1,2 +1,2 @@
 # dunan
-Analysis of data from Dunan, an endangered Ryukyuan language.
+Analysis of initial geminates from Dunan, an endangered Ryukyuan language.
