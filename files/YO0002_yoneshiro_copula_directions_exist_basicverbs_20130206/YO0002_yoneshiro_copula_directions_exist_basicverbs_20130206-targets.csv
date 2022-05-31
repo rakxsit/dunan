@@ -1,0 +1,111 @@
+Begin Time - msec,End Time - msec,Yonaguni,fileno,mfa
+16080,17060,ndanuha,1,ndanuha
+27940,29310,cima-banana,2,cimabanana
+34165,35475,cima-basunai,3,cimabasunai
+49657,50293,mikan,4,mikan
+63035,63995,nanku,6,nanku
+83224,84104,mamina,7,mamina
+99812,100842,kin-daguni,10,kindaguni
+112912,113952,cinda,11,cinda
+328605,329885,nmi=ba a=nga,12,nmiba anga
+382521,385626,kin-daguni=nu nidai=ni=du ar-u,13,kindaguninu nidainidu aru
+625368,627443,nmi=ba=du a=kaja=je,14,nmibadu akajaje
+759497,760067,ndai,16,ndai
+940356,941781,mai=ja,18,maija
+951344,952629,ndai=ni,19,ndaini
+971208,972663,nai=ja,21,naija
+987857,989187,nidai=ni=du ar-u,22,nidainidu aru
+1135479,1136699,kir-u=kaja=je,24,kirukajaje
+1230694,1232024,nana-ci a-n=do,25,nanaci ando
+1396434,1397549,ku-mi bu-n=do,28,kumi bundo
+1419458,1420983,ku-mi war-u-n=do,29,kumi warundo
+1525047,1526332,uma=nki ntur-i,33,umanki nturi
+1555604,1556338,naguda,35,naguda
+1565992,1567419,nagudati,36,nagudati
+1608590,1609303,nangani,39,nangani
+1632815,1635100,nanganiti,40,nanganiti
+1809251,1810336,maatagi,43,maatagi
+2110219,2111249,nagaija,49,nagaija
+2393305,2395242,mi-tantu=du buru<=to iu=wake=sa>,55,mitantudu buruqto qiuwakesa
+2433087,2433977,ttui=du bur-u,56,ttuidu buru
+2455926,2456321,ttantu,57,ttantu
+2527998,2530328,bunai mi-tantu=du bur-u,58,bunai mitantudu buru
+2724407,2725972,mi-tantu bu-n=du,64,mitantu bundu
+2932070,2933845,ttantu kannai=du war-u,67,ttantu kannaidu waru
+2976497,2977592,nnu-bututi,68,nnubututi
+2990874,2992119,nai-dagati,69,naidagati
+3014959,3016299,nai-gara atu=nki,70,naigara atunki
+3043136,3044321,nai hir-u-n=do,72,nai hirundo
+3128265,3129555,madu-i=du kir-u,73,maduidu kiru
+3206521,3207451,nnu=nu duru,75,nnunu duru
+3220981,3221851,ttumuti,76,ttumuti
+3240253,3241698,ninsagu nar-u-ta,78,ninsagu naruta
+3263140,3263760,min,79,min
+3310189,3311177,maa hju-n=do,82,maa hjundo
+3322099,3323129,maadi hir-a-nu,83,maadi hiranu
+3565308,3566778,nma=nki hir-u=nga,98,nmanki hirunga
+3632228,3633213,nma=nki=n hir-a-nun,100,nmankin hiranun
+3683782,3685362,budi nara-i=ndi=du hi-ta-ru,101,budi naraindidu hitaru
+3786068,3786788,misija=nki,104,misijanki
+3851984,3853369,tunai=nki=du hi-ta-ru=do,105,tunainkidu hitarudo
+3893933,3898423,nnu=ja anu=ja siraho=nki=du hi-ta-ru=do,106,nnuja anuja sirahonkidu hitarudo
+3951958,3953763,mijara=nki=du hir-u-n=di=du is-i bur-u,107,mijarankidu hirundidu isi buru
+4017383,4017838,k-u-n,108,kun
+4098296,4098886,k-u-nun,116,kunun
+4159910,4161145,k-u-nu-ta-n=do,119,kunutando
+4203060,4209900,duci=ja nai sugu k-u=kaja=je,120,ducija nai sugu kukajaje
+4299297,4300747,n k-u-nun=do,122,n kunundo
+4439583,4441773,kanu ttu=ja war-a-nun=do,123,kanu ttuja waranundo
+4581107,4582927,nanzi=ni ku=kaja=je,124,nanzini kukajaje
+4617571,4620381,nanzi=ni wata=nga,125,nanzini watanga
+4814485,4815525,madui=du bur-u,130,maduidu buru
+4828335,4830815,kais-i hi-ru=kaja nkai=ndi majui=du bur-u,131,kaisi hirukaja nkaindi majuidu buru
+4926229,4927139,kais-i hj-u-n,133,kaisi hjun
+4943475,4944025,kir-u,134,kiru
+5015551,5018091,atta nu=ba ki war-u=nga,137,atta nuba ki warunga
+5060761,5062041,ki wa-ta=nga,138,ki watanga
+5069451,5070101,ki-ta=nga,139,kitanga
+5136951,5137501,kir-a-nun,143,kiranun
+5189741,5190761,k-i war-a-nu-n,145,ki waranun
+5344032,5346012,dusai nu=ba ki war-u=nga,146,dusai nuba ki warunga
+5361634,5363224,<terebi>=du nnu=ndi is-i bur-u,147,qterebidu nnundi isi buru
+5411013,5412503,dusai nu=n kir-a-nun,148,dusai nun kiranun
+5436388,5437748,<terebi>=du n-i bu-ta-ru,149,qterebidu ni butaru
+5454788,5456498,nu=n k-i bur-a-nu-ta-n,150,nun ki buranutan
+5506883,5509383,i=du magas-i bu-ta-ru,151,idu magasi butaru
+5557893,5559543,nnari=du ara-i bu-ta-ru,152,nnaridu arai butaru
+5990782,5992782,tsuma=ja nu=ba ujasi war-u=nga,167,tsumaja nuba ujasi warunga
+6034212,6035782,tsuma=dugi=ja h-a-nun=du,168,tsumadugija hanundu
+6143050,6144240,nu=n ha-nu-ta-n,169,nun hanutan
+6153902,6155122,ntsudiru=du ha-ta-ru,170,ntsudirudu hataru
+6217632,6219132,nu=ba ha-ri-ru=kaja=je,171,nuba harirukajaje
+6232437,6234367,nu=ba ha-ri-ru=kaja=je,172,nuba harirukajaje
+6265506,6267596,nu=ba ha-i maci=kaja=je,173,nuba hai macikajaje
+6312776,6315116,nai-dagati nu=ba ujasi wa-ta=nga,174,naidagati nuba ujasi watanga
+6332026,6332826,num-u-n,175,numun
+6346026,6347626,o num-i war-u=nga,176,o numi warunga
+6355276,6356096,num-ja-n,177,numjan
+6377306,6378446,num-i bu-n=do,178,numi bundo
+6410576,6411456,num-a-nun,179,numanun
+6418476,6419546,num-i war-a-nun,180,numi waranun
+6425331,6426341,num-a-nu-ta-n,181,numanutan
+6445446,6447206,min num-i war-u=na,182,min numi waruna
+6472936,6474036,min num-a-nun,183,min numanun
+6494536,6497076,nnu=nu duru=ja sagi num-i wa-ta=nga,184,nnunu duruja sagi numi watanga
+6521526,6522646,num-a-nu-ta-n=do,185,numanutando
+6534977,6536197,num-ita-n=do,186,numitando
+6544987,6546057,num-ja-n=do,187,numjando
+6593651,6595801,nai=ja nu=ba num-i bu=nga,188,naija nuba numi bunga
+6617096,6619656,nai=ja nu=ba num-i war-u=nga,189,naija nuba numi warunga
+6634116,6636446,nai=ja <koohi>=du num-i bu-ru=do,190,naija qkoohidu numi burudo
+6653301,6654971,<koohi> num-i bu-n=do,191,qkoohi numi bundo
+6662176,6663666,ninsagu nar-u-ta,192,ninsagu naruta
+7022332,7024962,maa dadu ag-i=d ar-u=nga,207,maa dadu agid arunga
+7053777,7055257,madi ag-ir-a-nu-n=do,208,madi agiranundo
+7073260,7075160,ta=nga da=du ag-i b-u=nga,209,tanga dadu agi bunga
+7127507,7129817,ta=nga=n ag-i bur-a-nu=n=do,210,tangan agi buranundo
+7176468,7177528,sim-i tur-ai,213,simi turai
+7359858,7362178,maa dadu sim-ja-r-u=kaja=je,220,maa dadu simjarukajaje
+7411825,7414945,maadi dadu sim-i bur-a-nu-n=do,221,maadi dadu simi buranundo
+7466672,7469412,nuu-kibi dadu sim-i bu=kaja=je,222,nuukibi dadu simi bukajaje
+7486132,7488372,nuu-kibi dadu sim-i bu=nga,223,nuukibi dadu simi bunga

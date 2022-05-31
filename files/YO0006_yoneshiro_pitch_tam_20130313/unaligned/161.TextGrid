@@ -1,0 +1,18 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.144 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 3.144 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.144 
+            text = "ttumuti sungutidu dumitarudoqdemo qiisane" 
