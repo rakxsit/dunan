@@ -1,0 +1,30 @@
+Channel for speaker in each file:
+
+YO0001_yoneshiro_greetings_weather_number_directions_adjectives_20130130	1
+YO0002_yoneshiro_copula_directions_exist_basicverbs_20130206		2
+YO0004_yoneshiro_imperative_conjunction					1
+YO0005_yoneshiro_purpose_givereceive_20130306				2
+YO0006_yoneshiro_pitch_tam_20130313					2
+YO0008c_yoneshiro_sosensuuhai_20130410					2
+YO0008d_yoneshiro_TAMvideos_20130410					2
+YO0008e_yoneshiro_permission_20130410					2
+YO0009b_yoneshiro_experience_20130417					1
+YO0010a_yoneshiro_greetings_20130424					2
+YO0010b_yoneshiro_experience_20130424					2
+YO0010c_yoneshiro_europestory_20130424					2
+YO0011a_yoneshiro_potential_20130501					1
+YO0011b_yoneshiro_attributive_20130501					1
+YO0012b_yoneshiro_quantifiers_20130508					1
+YO0014b_yoneshiro_passive_derivation_causative_benefactive_20130529		1 - loud background
+YO0015_yoneshiro_grammar_20130612						1 - loud background
+YO0016_yoneshiro_accent_20140612						2
+YO0017a_yoneshiro_grammar_20140618					2
+YO0017b_yoneshiro_quantifier_20140618					2
+YO0019a_reconstruction-yoneshiro-20140702					2
+YO0019b_verbaccent-yoneshiro-20140702					2
+YO0020a_wordaccent-yoneshiro-20140709					1
+YO0020b_verbaccent-yoneshiro-20140709					1
+YO0020c_die_see_seem-yoneshiro-20140709					1
+YO0021_adjaccent-yoneshiro-20140716					1
+YO0024b_adjvocabaccent-yoneshiro-20140730					1
+YO0025a_vocabaccent-yoneshiro-20140801					2

@@ -1,0 +1,7 @@
+# For using the Montreal Forced Aligner
+
+# To validate:
+/opt/montreal-forced-aligner/bin/mfa_validate_dataset [CORPUS DIRECTORY] [DICTIONARY FILE]
+
+# To align
+/opt/montreal-forced-aligner/bin/mfa_align [CORPUS DIRECTORY] [DICTIONARY FILE] [LANGUAGE] [OUTPUT DIRECTORY]
