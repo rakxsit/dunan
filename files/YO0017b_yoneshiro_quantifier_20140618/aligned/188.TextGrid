@@ -1,0 +1,124 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.427
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 2.427
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.1000
+				text = ""
+			intervals [2]:
+				xmin = 0.1000
+				xmax = 1.2700
+				text = "minungaangaminga"
+			intervals [3]:
+				xmin = 1.2700
+				xmax = 2.1900
+				text = "ttantunga"
+			intervals [4]:
+				xmin = 2.1900
+				xmax = 2.427
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 2.427
+		intervals: size = 22
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.1000
+				text = "sil"
+			intervals [2]:
+				xmin = 0.1000
+				xmax = 0.1900
+				text = "M"
+			intervals [3]:
+				xmin = 0.1900
+				xmax = 0.2500
+				text = "IY1"
+			intervals [4]:
+				xmin = 0.2500
+				xmax = 0.2800
+				text = "N"
+			intervals [5]:
+				xmin = 0.2800
+				xmax = 0.3100
+				text = "UW1"
+			intervals [6]:
+				xmin = 0.3100
+				xmax = 0.3400
+				text = "NG"
+			intervals [7]:
+				xmin = 0.3400
+				xmax = 0.7200
+				text = "AA1"
+			intervals [8]:
+				xmin = 0.7200
+				xmax = 0.8000
+				text = "NG"
+			intervals [9]:
+				xmin = 0.8000
+				xmax = 0.9200
+				text = "AA1"
+			intervals [10]:
+				xmin = 0.9200
+				xmax = 1.0300
+				text = "M"
+			intervals [11]:
+				xmin = 1.0300
+				xmax = 1.0600
+				text = "IY1"
+			intervals [12]:
+				xmin = 1.0600
+				xmax = 1.1600
+				text = "NG"
+			intervals [13]:
+				xmin = 1.1600
+				xmax = 1.2700
+				text = "AA1"
+			intervals [14]:
+				xmin = 1.2700
+				xmax = 1.4300
+				text = "T"
+			intervals [15]:
+				xmin = 1.4300
+				xmax = 1.5600
+				text = "AA1"
+			intervals [16]:
+				xmin = 1.5600
+				xmax = 1.7100
+				text = "N"
+			intervals [17]:
+				xmin = 1.7100
+				xmax = 1.8200
+				text = "T"
+			intervals [18]:
+				xmin = 1.8200
+				xmax = 1.8800
+				text = "UW1"
+			intervals [19]:
+				xmin = 1.8800
+				xmax = 1.9500
+				text = "NG"
+			intervals [20]:
+				xmin = 1.9500
+				xmax = 2.1900
+				text = "AA1"
+			intervals [21]:
+				xmin = 2.1900
+				xmax = 2.4100
+				text = "sp"
+			intervals [22]:
+				xmin = 2.4100
+				xmax = 2.427
+				text = ""
