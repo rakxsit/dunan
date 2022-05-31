@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.3
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 1.3
+		intervals: size = 5
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.1600
+				text = ""
+			intervals [2]:
+				xmin = 0.1600
+				xmax = 0.6300
+				text = "qmiruwa"
+			intervals [3]:
+				xmin = 0.6300
+				xmax = 0.7100
+				text = ""
+			intervals [4]:
+				xmin = 0.7100
+				xmax = 1.2200
+				text = "nnun"
+			intervals [5]:
+				xmin = 1.2200
+				xmax = 1.3
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 1.3
+		intervals: size = 13
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.1600
+				text = "sil"
+			intervals [2]:
+				xmin = 0.1600
+				xmax = 0.2700
+				text = "M"
+			intervals [3]:
+				xmin = 0.2700
+				xmax = 0.4000
+				text = "IY1"
+			intervals [4]:
+				xmin = 0.4000
+				xmax = 0.4300
+				text = "R"
+			intervals [5]:
+				xmin = 0.4300
+				xmax = 0.5600
+				text = "UW1"
+			intervals [6]:
+				xmin = 0.5600
+				xmax = 0.6000
+				text = "W"
+			intervals [7]:
+				xmin = 0.6000
+				xmax = 0.6300
+				text = "AA1"
+			intervals [8]:
+				xmin = 0.6300
+				xmax = 0.7100
+				text = "sp"
+			intervals [9]:
+				xmin = 0.7100
+				xmax = 0.7700
+				text = "N"
+			intervals [10]:
+				xmin = 0.7700
+				xmax = 0.8100
+				text = "UW1"
+			intervals [11]:
+				xmin = 0.8100
+				xmax = 1.2200
+				text = "N"
+			intervals [12]:
+				xmin = 1.2200
+				xmax = 1.2800
+				text = "sp"
+			intervals [13]:
+				xmin = 1.2800
+				xmax = 1.3
+				text = ""

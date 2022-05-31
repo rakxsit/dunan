@@ -1,0 +1,112 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 2.28
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "transcription - words"
+		xmin = 0.0
+		xmax = 2.28
+		intervals: size = 6
+			intervals [1]:
+				xmin = 0.0
+				xmax = 0.0900
+				text = ""
+			intervals [2]:
+				xmin = 0.0900
+				xmax = 0.5800
+				text = "taan"
+			intervals [3]:
+				xmin = 0.5800
+				xmax = 0.9600
+				text = ""
+			intervals [4]:
+				xmin = 0.9600
+				xmax = 1.3900
+				text = "taan"
+			intervals [5]:
+				xmin = 1.3900
+				xmax = 2.1700
+				text = "kunutan"
+			intervals [6]:
+				xmin = 2.1700
+				xmax = 2.28
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "transcription - phones"
+		xmin = 0.0
+		xmax = 2.28
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.0000
+				xmax = 0.0900
+				text = "sil"
+			intervals [2]:
+				xmin = 0.0900
+				xmax = 0.2000
+				text = "T"
+			intervals [3]:
+				xmin = 0.2000
+				xmax = 0.4200
+				text = "AA1"
+			intervals [4]:
+				xmin = 0.4200
+				xmax = 0.5800
+				text = "N"
+			intervals [5]:
+				xmin = 0.5800
+				xmax = 0.9600
+				text = "sp"
+			intervals [6]:
+				xmin = 0.9600
+				xmax = 1.1000
+				text = "T"
+			intervals [7]:
+				xmin = 1.1000
+				xmax = 1.3100
+				text = "AA1"
+			intervals [8]:
+				xmin = 1.3100
+				xmax = 1.3900
+				text = "N"
+			intervals [9]:
+				xmin = 1.3900
+				xmax = 1.5500
+				text = "K"
+			intervals [10]:
+				xmin = 1.5500
+				xmax = 1.5900
+				text = "UW1"
+			intervals [11]:
+				xmin = 1.5900
+				xmax = 1.6300
+				text = "N"
+			intervals [12]:
+				xmin = 1.6300
+				xmax = 1.7500
+				text = "UW1"
+			intervals [13]:
+				xmin = 1.7500
+				xmax = 1.8600
+				text = "T"
+			intervals [14]:
+				xmin = 1.8600
+				xmax = 1.9900
+				text = "AA1"
+			intervals [15]:
+				xmin = 1.9900
+				xmax = 2.1700
+				text = "N"
+			intervals [16]:
+				xmin = 2.1700
+				xmax = 2.2600
+				text = "sp"
+			intervals [17]:
+				xmin = 2.2600
+				xmax = 2.28
+				text = ""

@@ -1,0 +1,173 @@
+a  AA1
+ai  AA1 IY1
+ana  AA1 N AA1
+anga  AA1 NG AA1
+angaqtoka  AA1 NG AA1 T OW1 K AA1
+angaqttarajo  AA1 NG AA1 T AA1 R AA1 Y OW1
+ata  AA1 T AA1
+ataja  AA1 T AA1 Y AA1
+atsatantin  AA1 T S AA1 T AA1 N T IY1 N
+bagai  B AA1 G AA1 IY1
+bagarukajaje  B AA1 G AA1 R UW1 K AA1 Y AA1 Y EY1
+bagaruna  B AA1 G AA1 R UW1 N AA1
+bukajaje  B UW1 K AA1 Y AA1 Y EY1
+buna  B UW1 N AA1
+bunaqtomo  B UW1 N AA1 T OW1 M OW1
+buru  B UW1 R UW1
+ci  CH IY1
+damatun  D AA1 M AA1 T UW1 N
+du  D UW1
+dunan  D UW1 N AA1 N
+e  EY1
+hai  HH AA1 IY1
+hajagu  HH AA1 Y AA1 G UW1
+hanasi  HH AA1 N AA1 SH IY1
+hirarirunga  HH IY1 R AA1 R IY1 R UW1 NG AA1
+hiruba  HH IY1 R UW1 B AA1
+hirukajandi  HH IY1 R UW1 K AA1 Y AA1 N D IY1
+hiruna  HH IY1 R UW1 N AA1
+hirunga  HH IY1 R UW1 NG AA1
+hirungaqto  HH IY1 R UW1 NG AA1 T OW1
+i  IY1
+ibitatija  IY1 B IY1 T AA1 T IY1 Y AA1
+iju  IY1 Y UW1
+ijuqtoga  IY1 Y UW1 T OW1 G AA1
+ijuqtomo  IY1 Y UW1 T OW1 M OW1
+iru  IY1 R UW1
+isi  IY1 SH IY1
+isija  IY1 SH IY1 Y AA1
+iusane  IY1 UW1 S AA1 N EY1
+ja  Y AA1
+kama  K AA1 M AA1
+kamanki  K AA1 M AA1 NG K IY1
+kami  K AA1 M IY1
+karirukajaje  K AA1 R IY1 R UW1 K AA1 Y AA1 Y EY1
+ki  K IY1
+kirarirukaja  K IY1 R AA1 R IY1 R UW1 K AA1 Y AA1
+kirundo  K IY1 R UW1 N D OW1
+kkai  K AA1 IY1
+kkariru  K AA1 R IY1 R UW1
+kkariruna  K AA1 R IY1 R UW1 N AA1
+kkarirunaqto  K AA1 R IY1 R UW1 N AA1 T OW1
+kkarirunaqtoga  K AA1 R IY1 R UW1 N AA1 T OW1 G AA1
+kkarirunaqttara  K AA1 R IY1 R UW1 N AA1 T AA1 R AA1
+kkarirunaqtte  K AA1 R IY1 R UW1 N AA1 T EY1
+kujo  K UW1 Y OW1
+kuma  K UW1 M AA1
+kungga  K UW1 NG G AA1
+kurariruna  K UW1 R AA1 R IY1 R UW1 N AA1
+kutuba  K UW1 T UW1 B AA1
+kutubadoqtokane  K UW1 T UW1 B AA1 D OW1 T OW1 K AA1 N EY1
+maaru  M AA1 R UW1
+maasaru  M AA1 S AA1 R UW1
+maasaruqwa  M AA1 S AA1 R UW1 W AA1
+maasiku  M AA1 SH IY1 K UW1
+maisagu  M AA1 IY1 S AA1 G UW1
+maisana  M AA1 IY1 S AA1 N AA1
+masaru  M AA1 S AA1 R UW1
+mjagunu  M Y AA1 G UW1 N UW1
+munu  M UW1 N UW1
+n  N
+naija  N AA1 IY1 Y AA1
+nda  N D AA1
+ndanki  N D AA1 NG K IY1
+ndi  N D IY1
+nduba  N D UW1 B AA1
+nindariruna  N IY1 N D AA1 R IY1 R UW1 N AA1
+nmani  M AA1 N IY1
+nmanki  M AA1 NG K IY1
+nn  N
+nni  N IY1
+nnuna  N UW1 N AA1
+nnunaqtoka  N UW1 N AA1 T OW1 K AA1
+nnundo  N UW1 N D OW1
+nugu  N UW1 G UW1
+nusiba  N UW1 SH IY1 B AA1
+o  OW1
+qa  AA1
+qamari  AA1 M AA1 R IY1
+qamerikano  AA1 M EY1 R IY1 K AA1 N OW1
+qano  AA1 N OW1
+qarewa  AA1 R EY1 W AA1
+qarujo  AA1 R UW1 Y OW1
+qaujo  AA1 UW1 Y OW1
+qausa  AA1 UW1 S AA1
+qbjooinki  B Y OW1 IY1 NG K IY1
+qbjooinkija  B Y OW1 IY1 NG K IY1 Y AA1
+qdakedo  D AA1 K EY1 D OW1
+qdekirukattara  D EY1 K IY1 R UW1 K AA1 T AA1 R AA1
+qgakkoono  G AA1 K OW1 N OW1
+qhooga  HH OW1 G AA1
+qhutatsu  HH UW1 T AA1 T S UW1
+qierukedo  IY1 EY1 R UW1 K EY1 D OW1
+qii  IY1
+qiina  IY1 N AA1
+qimika  IY1 M IY1 K AA1
+qitta  IY1 T AA1
+qittara  IY1 T AA1 R AA1
+qittarasi  IY1 T AA1 R AA1 SH IY1
+qiu  IY1 UW1
+qiujo  IY1 UW1 Y OW1
+qiukedo  IY1 UW1 K EY1 D OW1
+qiunoniwa  IY1 UW1 N OW1 N IY1 W AA1
+qiusa  IY1 UW1 S AA1
+qiusane  IY1 UW1 S AA1 N EY1
+qkikoeruka  K IY1 K OW1 EY1 R UW1 K AA1
+qkore  K OW1 R EY1
+qkotobawa  K OW1 T OW1 B AA1 W AA1
+qkotowa  K OW1 T OW1 W AA1
+qmata  M AA1 T AA1
+qmonowo  M OW1 N OW1 W OW1
+qmukookara  M UW1 K OW1 K AA1 R AA1
+qn  N
+qnaganokenni  N AA1 G AA1 N OW1 K EY1 N IY1
+qnattoo  N AA1 T OW1
+qsuki  S UW1 K IY1
+qtokiwa  T OW1 K IY1 W AA1
+qtsukaerune  T S UW1 K AA1 EY1 R UW1 N EY1
+qtsukau  T S UW1 K AA1 UW1
+qtsukaukeredomo  T S UW1 K AA1 UW1 K EY1 R EY1 D OW1 M OW1
+qtsukawanja  T S UW1 K AA1 W AA1 N Y AA1
+qwakarukato  W AA1 K AA1 R UW1 K AA1 T OW1
+sinsiidu  SH IY1 N SH IY1 IY1 D UW1
+sitiba  SH IY1 T IY1 B AA1
+tsanu  T S AA1 N UW1
+tsuna  T S UW1 N AA1
+tsunaqda  T S UW1 N AA1 D AA1
+tsunaqde  T S UW1 N AA1 D EY1
+tsunaqto  T S UW1 N AA1 T OW1
+tsunaqtoga  T S UW1 N AA1 T OW1 G AA1
+tsundo  T S UW1 N D OW1
+ttamirundoqtoka  T AA1 M IY1 R UW1 N D OW1 T OW1 K AA1
+ttamirundoqtokane  T AA1 M IY1 R UW1 N D OW1 T OW1 K AA1 N EY1
+tti  T IY1
+ttijo  T IY1 Y OW1
+ttijoto  T IY1 Y OW1 T OW1
+ttu  T UW1
+ttudu  T UW1 D UW1
+ttuja  T UW1 Y AA1
+ttunga  T UW1 NG AA1
+tubai  T UW1 B AA1 IY1
+tubararirukaja  T UW1 B AA1 R AA1 R IY1 R UW1 K AA1 Y AA1
+tubararirukajaqto  T UW1 B AA1 R AA1 R IY1 R UW1 K AA1 Y AA1 T OW1
+tubararirukajaqtoga  T UW1 B AA1 R AA1 R IY1 R UW1 K AA1 Y AA1 T OW1 G AA1
+turasi  T UW1 R AA1 SH IY1
+udi  UW1 D IY1
+ugirundo  UW1 G IY1 R UW1 N D OW1
+ui  UW1 IY1
+ujasi  UW1 Y AA1 SH IY1
+umani  UW1 M AA1 N IY1
+umanki  UW1 M AA1 NG K IY1
+uni  UW1 N IY1
+wararirukaja  W AA1 R AA1 R IY1 R UW1 K AA1 Y AA1
+warariruna  W AA1 R AA1 R IY1 R UW1 N AA1
+warijo  W AA1 R IY1 Y OW1
+warijoqtokane  W AA1 R IY1 Y OW1 T OW1 K AA1 N EY1
+waru  W AA1 R UW1
+warun  W AA1 R UW1 N
+waruna  W AA1 R UW1 N AA1
+warunaqdessjo  W AA1 R UW1 N AA1 D EY1 S SH Y OW1
+warunaqto  W AA1 R UW1 N AA1 T OW1
+warunaqtoga  W AA1 R UW1 N AA1 T OW1 G AA1
+warunaqwa  W AA1 R UW1 N AA1 W AA1
+warungaqdattara  W AA1 R UW1 NG AA1 D AA1 T AA1 R AA1

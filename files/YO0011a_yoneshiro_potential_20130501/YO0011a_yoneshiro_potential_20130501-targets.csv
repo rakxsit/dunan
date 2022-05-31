@@ -1,0 +1,111 @@
+Begin Time - msec,End Time - msec,Yonaguni,fileno,mfa
+75366,77016,damatu=n ttu=nga a=na,1,damatun ttunga ana
+81271,84581,<amerika=no gakkoo=no> sinsii=du ki warun,2,qamerikano qgakkoono sinsiidu ki warun
+99316,100326,nai=ja,3,naija
+101951,105481,<amerika=no gakkoo=no> sinsii=du ki warun,4,qamerikano qgakkoono sinsiidu ki warun
+126326,128476,damatu=n ttu=du a=nga,5,damatun ttudu anga
+129641,130861,damatu=n ttu,6,damatun ttu
+133831,136801,damatu=n ttu=du a=nga<=to=ka>,7,damatun ttudu angaqtoka
+137126,140186,damatu=n ttu=du ai waru=nga<=dattara mata au=sa>,8,damatun ttudu ai warungaqdattara qmata qausa
+146156,147356,nai=ja,9,naija
+168566,171916,=du a=nga damatu=n ttu a=nga<=ttara=jo>,10,du anga damatun ttu angaqttarajo
+172941,174711,damatu=n ttu=du,11,damatun ttudu
+180496,182526,damatu=n ttu=du a=nga,12,damatun ttudu anga
+201086,202176,mjagu=nu kutuba,14,mjagunu kutuba
+257061,259751,hajagu ku=jo hajagu ugirun=do,17,hajagu kujo hajagu ugirundo
+268221,269831,hanasi kirun=do,19,hanasi kirundo
+274836,276466,ttamirun=do<=to=ka=ne>,20,ttamirundoqtokane
+280731,283041,nda=nki ttamirun=do<=to=ka ittarasi>,21,ndanki ttamirundoqtoka qittarasi
+349838,351818,<suki> isi ci waru=na,27,qsuki isi ci waruna
+353078,357843,isi ci waru=na <dekiru=ka=ttara> isi ci waru=na,28,isi ci waruna qdekirukattara isi ci waruna
+366243,368543,o isi tsun=do,29,o isi tsundo
+378853,380463,nn isi tsanu,30,nn isi tsanu
+391578,392788,isi tsun=do,31,isi tsundo
+415113,416583,n isi ci waru=na,32,n isi ci waruna
+426558,428178,hai tsu=na<=de ii=na>,33,hai tsunaqde qiina
+436768,440818,ujasi waru=na hai hai nni waru=na,34,ujasi waruna hai hai nni waruna
+441173,443693,hai nnu=na<=to=ka iu kotoba=wa tsukau>,35,hai nnunaqtoka qiu qkotobawa qtsukau
+444153,445973,<nattoo> hai nnu=na,36,qnattoo hai nnuna
+452393,453773,a hai tsu=na,37,a hai tsuna
+454673,456323,<nattoo> hai tsu=na,38,qnattoo hai tsuna
+484218,487538,ujasi ci waru=na ujasi ci waru=na,40,ujasi ci waruna ujasi ci waruna
+502408,503838,n isi=ja nnun=do,41,n isija nnundo
+510683,512313,n isi nnun=do,42,n isi nnundo
+536979,544009,a <nagano-ken>=ni isi buru (ja ja) <suki> (i...) iru ttu=ja maisa=na,43,a qnaganokenni isi buru ja ja qsuki i iru ttuja maisana
+547659,549069,maisagu bu=na,45,maisagu buna
+575174,576404,maisagu,48,maisagu
+583642,584652,maasiku,49,maasiku
+584787,587937,maisagu bu=na<=to=mo tsukau=keredo=mo>,50,maisagu bunaqtomo qtsukaukeredomo
+589012,591362,<tsukau koto=wa tsukau> maisagu bu=na,51,qtsukau qkotowa qtsukau maisagu buna
+592077,594647,<suki> isi buru ttu maisagu bu=na,52,qsuki isi buru ttu maisagu buna
+647342,650067,udi ci waru=na<=dessjo> udi ci waru=na,58,udi ci warunaqdessjo udi ci waruna
+650854,652474,ibitati=ja udi tsun=do,59,ibitatija udi tsundo
+689314,692264,ata=ja tubarariru=kaja,60,ataja tubararirukaja
+694189,696089,ata=ja tubarariru=kaja<=to=ga iu=kedo>,61,ataja tubararirukajaqtoga qiukedo
+741049,742189,kirariru=kaja,64,kirarirukaja
+759469,761159,tubarariru=kaja,65,tubararirukaja
+762854,764804,tubarariru=kaja<=to>,66,tubararirukajaqto
+773149,775939,ata=ja tubai warariru=kaja,67,ataja tubai wararirukaja
+905113,906953,kkariru kutuba=do<=to=ka=ne>,79,kkariru kutubadoqtokane
+922583,924703,dunan kutuba,80,dunan kutuba
+929103,930733,kkai ci waru=na,81,kkai ci waruna
+934048,935938,isi ci waru=na<=to ittara>,82,isi ci warunaqto qittara
+942523,944553,nda dunan kutuba kkai waru=na,83,nda dunan kutuba kkai waruna
+945458,947428,nda dunan kutuba bagai waru=na,84,nda dunan kutuba bagai waruna
+955893,957113,kkai ci waru=na,85,kkai ci waruna
+964583,967403,dunan kutuba kkai warariru=na,86,dunan kutuba kkai warariruna
+982073,983783,dunan kutuba,88,dunan kutuba
+985988,987938,kkai waru=na<=to=ga iu=kedo>,89,kkai warunaqtoga qiukedo
+990823,993033,kkai warariru=na,90,kkai warariruna
+1000038,1002408,dunan kutuba kkariru=na,91,dunan kutuba kkariruna
+1002473,1005533,kkariru=na<=to iu=no=ni=wa hutatsu aru=jo>,92,kkarirunaqto qiunoniwa qhutatsu qarujo
+1006633,1007703,kkariru=na<=to=ga>,93,kkarirunaqtoga
+1027838,1029938,tti tsu=na<=to=ga iu=sa aru=jo>,94,tti tsunaqtoga qiusa qarujo
+1030998,1035028,tti tsu=na munu kkariru=na tti tsu=na,95,tti tsuna munu kkariruna tti tsuna
+1038757,1040287,tti tsu=na,96,tti tsuna
+1041642,1043612,kkariru=na<=ttara mukoo=kara>,97,kkarirunaqttara qmukookara
+1044057,1048167,<n kikoeru=ka> tti tsu=na kkai tsu=na,98,qn qkikoeruka tti tsuna kkai tsuna
+1049192,1050312,kkariru=na,99,kkariruna
+1051952,1055832,kkariru=na a=nga ndi buru kutuba kkariru=na<=tte iu=sa=ne>,100,kkariruna anga ndi buru kutuba kkarirunaqtte qiusane
+1058542,1060422,n kkai tsu=na<=to ittara>,101,n kkai tsunaqto qittara
+1064212,1065952,kkariru=na<=to ittara>,102,kkarirunaqto qittara
+1071702,1073102,kkai tsu=na,103,kkai tsuna
+1074942,1076652,kkai tsu=na<=to ittara>,104,kkai tsunaqto qittara
+1087237,1088097,tti tsu=na<=da>,105,tti tsunaqda
+1098157,1101457,<wakaru=ka=to iu mono=wo> tti tsu=na,106,qwakarukato qiu qmonowo tti tsuna
+1102557,1103367,tti,107,tti
+1133072,1135002,a n tti wari=jo <ii>,108,a n tti warijo qii
+1138252,1141122,a=nga uni ndu=ba tti turasi wari=jo<=to=ka=ne>,110,anga uni nduba tti turasi warijoqtokane
+1153382,1154742,a=nga ndu=ba,111,anga nduba
+1155172,1158292,tti=jo tti=jo tti=jo=to iu=sa=ne,112,ttijo ttijo ttijoto iusane
+1162957,1164497,tti=jo tti=jo,113,ttijo ttijo
+1173867,1175627,dunan kutuba kkai waru=na,114,dunan kutuba kkai waruna
+1179757,1180537,tti,115,tti
+1181477,1183557,dunan kutuba tti waru e,116,dunan kutuba tti waru e
+1191487,1193197,nda dunan kutuba,117,nda dunan kutuba
+1266647,1271257,nma=ni nma=nki <ano toki=wa> nma=nki hiru=ba <itta hoo=ga ii>,122,nmani nmanki qano qtokiwa nmanki hiruba qitta qhooga qii
+1279142,1280852,nma=nki hiru=ba,123,nmanki hiruba
+1285712,1287202,kariru=kaja=je,125,karirukajaje
+1294477,1296047,kariru=kaja=je,126,karirukajaje
+1335212,1338712,maasaru iju ui bu=kaja=je masaru iju,127,maasaru iju ui bukajaje masaru iju
+1341552,1343302,maaru iju<=to=mo iu=jo>,128,maaru ijuqtomo qiujo
+1351872,1354882,<dakedo> maasaru<=wa amari tsukawan=ja are=wa>,130,qdakedo maasaruqwa qamari qtsukawanja qarewa
+1359154,1360524,maaru iju<=to=ga iu>,131,maaru ijuqtoga qiu
+1382194,1383844,kariru=kaja=je,133,karirukajaje
+1406959,1408749,nu=si=ba hiru=nga<=to iu imi=ka>,134,nusiba hirungaqto qiu qimika
+1426624,1429844,nugu siti=ba <bjooin>=ki=ja hiru=nga,138,nugu sitiba qbjooinkija hirunga
+1469214,1471944,nugu siti=ba <bjooin>=ki hirariru=nga,139,nugu sitiba qbjooinki hirarirunga
+1510189,1514109,nugu si=ti=ba <bjooin>=ki hiru=kaja=ndi bagaru=na,140,nugu sitiba qbjooinki hirukajandi bagaruna
+1544096,1548186,nugu si=ti=ba hiru=kaja=ndi bagai bu=na bagaru=kaja=je,143,nugu sitiba hirukajandi bagai buna bagarukajaje
+1576546,1578676,atsa=tantin nindariru=na,146,atsatantin nindariruna
+1621651,1623311,ata kurariru=na,150,ata kurariruna
+1687011,1691090,ata uma=nki ku=ngga uma=ni waru=na <n kore tsukaeru=ne>,156,ata umanki kungga umani waruna qn qkore qtsukaerune
+1716856,1718296,kama kuma kama,158,kama kuma kama
+1719706,1721566,nda ata kami bu=na,159,nda ata kami buna
+1724176,1725166,kami bu=na,160,kami buna
+1728301,1729391,kami kami,161,kami kami
+1740216,1743236,ata kama=nki warariru=na <n kore au=jo>,162,ata kamanki warariruna qn qkore qaujo
+1750506,1752036,ata kami,163,ata kami
+1752621,1758171,ata kami waru=na<=wa a ieru=kedo> ata kami waru=na,164,ata kami warunaqwa qa qierukedo ata kami waruna
+1758796,1760406,ata kami waru=na,165,ata kami waruna
+1764551,1766271,ata kama=nki hiru=na,166,ata kamanki hiruna
