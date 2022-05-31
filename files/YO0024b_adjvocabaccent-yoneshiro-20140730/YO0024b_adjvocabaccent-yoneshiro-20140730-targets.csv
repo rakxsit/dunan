@@ -1,0 +1,73 @@
+Begin Time - msec,End Time - msec,Yonaguni,fileno,mfa
+189377,190307,mjaa,22,mjaa
+201792,203792,mjaa=du an=suja,24,mjaadu ansuja
+204472,206222,mjaa=du an=suja,25,mjaadu ansuja
+243437,248617,dama=kanin=ja mjagu=nu amiti=ja mjaa=datan=suja,27,damakaninja mjagunu amitija mjaadatansuja
+401095,403675,nnari=nga hitsan=suja,39,nnaringa hitsansuja
+466455,469705,nnari=ja hitsa=du an=suja,47,nnarija hitsadu ansuja
+482772,483462,cira,49,cira
+515162,517792,nnari=ja hitsa=du an=suja,52,nnarija hitsadu ansuja
+537247,539203,unu ttu=ja hantari=du bun=suja,54,unu ttuja hantaridu bunsuja
+548160,548954,unu ttu=ja,57,unu ttuja
+551527,554014,unu ttu=ja hantari=du bun=suja,58,unu ttuja hantaridu bunsuja
+602251,603430,maasiku,65,maasiku
+604974,606145,maasiku,66,maasiku
+611504,613645,<tsubo>=nga maasiku an=suja,67,qtsubonga maasiku ansuja
+632075,634675,u=ja <ippai> munu=nga hai bun=suja,68,uja qippai mununga hai bunsuja
+643784,646037,<ippai> munu=nga hai bun=suja,69,qippai mununga hai bunsuja
+664450,666030,unu ttu=ja bagan=suja,71,unu ttuja bagansuja
+683155,685035,tuci=du tui bun=suja,73,tucidu tui bunsuja
+685695,688385,tuci=du tui buru ttu=du an=suja,74,tucidu tui buru ttudu ansuja
+689820,692030,tuci=du tui bun=suja,75,tucidu tui bunsuja
+694895,696915,tuci=du tui bun=suja,76,tucidu tui bunsuja
+772920,774360,unu nnari=ja,85,unu nnarija
+786359,787579,unu nnari,89,unu nnari
+789299,791449,unu nnari=ja,90,unu nnarija
+816789,818369,tuci tui bun=suja,92,tuci tui bunsuja
+822719,824539,tsari=du bun=suja,93,tsaridu bunsuja
+824687,825677,tsariru,94,tsariru
+827531,829112,tsari=du bun=suja,95,tsaridu bunsuja
+849960,851410,nggai=du buru,97,nggaidu buru
+868805,870465,nggai buru nnari,100,nggai buru nnari
+872315,873665,nggai buru nnari,101,nggai buru nnari
+899420,900980,mjaaru amiti,102,mjaaru amiti
+919005,920275,mja1aru amiti,105,mjaaru amiti
+927680,928520,mja1aru,106,mjaaru
+928700,929510,mja1aru,107,mjaaru
+932755,934715,mja1aru amiti,108,mjaaru amiti
+944125,945405,mjaaru amiti,109,mjaaru amiti
+947085,948765,mjaaru amiti,110,mjaaru amiti
+952452,955582,mja1aru,111,mjaaru
+956665,957575,mjaaru,112,mjaaru
+965957,967897,mja1aru<=to> mjaaru,113,mjaaruqto mjaaru
+968367,969467,mjaaru,114,mjaaru
+974322,979352,mja1aru amiti<=to> mjaaru mja1aru amiti,115,mjaaru amitiqto mjaaru mjaaru amiti
+999597,1001287,hitsaru nnari,116,hitsaru nnari
+1002572,1004222,hitsaru nnari,117,hitsaru nnari
+1020632,1024062,unu ttu=ja hantari bun=suja<=demo=sa=ne>,118,unu ttuja hantari bunsujaqdemosane
+1028717,1030477,hantari buru ttu,119,hantari buru ttu
+1050002,1052692,bagaru ttu baga-munu<=to mo iu=si>,121,bagaru ttu bagamunuqto qmo qiusi
+1062690,1064700,tuci=du tui buru ttu m,123,tucidu tui buru ttu m
+1071595,1072955,tsari buru munu,124,tsari buru munu
+1074685,1077585,tsari buru <ringo=to=ka=de=mo iu=si>,125,tsari buru qringotokademo qiusi
+1096010,1099070,a <saki>=nu ngai buru=nu <hantai>=je ,126,a qsakinu ngai burunu qhantaije 
+1099635,1101025,karati buru,127,karati buru
+1106918,1110558,husjaru nnari=ja karati=du buru=do<=to=ka iu=sa=ne>,129,husjaru nnarija karatidu burudoqtoka qiusane
+1114174,1115891,karati buru nnari <ieru>,130,karati buru nnari qieru
+1125849,1128534,maran maran=do,131,maran marando
+1137155,1138713,mararu duguru n,132,mararu duguru n
+1141767,1146737,kuma=tu nma=nu amici=tu mararu duguru=gara hirun=do<=to=ka=ne>,133,kumatu nmanu amicitu mararu dugurugara hirundoqtokane
+1149393,1150917,mararu duguru,134,mararu duguru
+1277996,1281567,u=ja <sooto> tagan=do<=to=ka=jo>,136,uja qsooto tagandoqtokajo
+1282021,1284660,umutarun=suka tagan=do,137,umutarunsuka tagando
+1300607,1302848,umutan=suka tagan=do,139,umutansuka tagando
+1312524,1316130,datsan=ndi umui bur=ja umutan=suka tagan=do<=to iu sa>,141,datsanndi umui burja umutansuka tagandoqto qiu qsa
+1333243,1334630,tagan=do,143,tagando
+1336666,1338156,tagan=do,144,tagando
+1354507,1358167,datsan=ndi umuta=nga kai=ndi hita=nga,146,datsanndi umutanga kaindi hitanga
+1358248,1360170,taga=du ataru<=to=ka iu toki>,147,tagadu ataruqtoka qiu qtoki
+1383346,1385314,ndigata ndigata,148,ndigata ndigata
+1409274,1414439,umui umanuta kanu ttu=nga waisun=suja,150,umui umanuta kanu ttunga waisunsuja
+1427233,1431863,umui umanuta kanu ttu=nga waisun=suja<=tte>,153,umui umanuta kanu ttunga waisunsujaqtte
+1556365,1558856,sugu wasi turasi wari=jo<=to=ka>,157,sugu wasi turasi warijoqtoka
+1564957,1568529,sugu wasi turasi wari=jo <irassyai=to>,159,sugu wasi turasi warijo qirassyaito

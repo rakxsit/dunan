@@ -1,0 +1,14 @@
+ndi=du kirariru
+nni=du buru
+nni=du buru=je
+nni=du bun=su=ja
+nni=du bun=su=ja
+nni=du buru
+<terebi>=du nni buru
+<terebi>=du nni=buru
+unu ttu=ja nni=du bun=suja
+unu angamiti=ja <terebi>=du nni bun=suja
+unu ttu=tu kunu ttu=tu=ja <ttangadan?>=gara nni bun=suja
+nni=du buru<=to itta=desjo>
+nni=du buru
+a hugarassa
