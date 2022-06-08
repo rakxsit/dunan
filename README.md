@@ -1,5 +1,5 @@
 # dunan
-Analysis of initial geminates from Dunan, an endangered Ryukyuan language.
+Analysis identifying the acoustic correlates of initial geminates from Dunan, an endangered Ryukyuan language.
 
 ## data
 Dataframes for Dunan
